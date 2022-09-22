@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.taylorsz.djitemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.taylorsz.djitemplate.MyBundle
 
 class MyApplicationService {
 
